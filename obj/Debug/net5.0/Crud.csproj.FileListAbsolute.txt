@@ -1,0 +1,254 @@
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\appsettings.Development.json
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\appsettings.json
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.exe
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.deps.json
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.runtimeconfig.json
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.runtimeconfig.dev.json
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.pdb
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.Views.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Crud.Views.pdb
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Dapper.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Humanizer.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.csproj.AssemblyReference.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.AssemblyInfoInputs.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.AssemblyInfo.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.csproj.CoreCompileInputs.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.RazorAssemblyInfo.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.RazorAssemblyInfo.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\scopedcss\bundle\Crud.styles.css
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.TagHelpers.input.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.TagHelpers.output.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.RazorCoreGenerate.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Cadastro\Editar.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Configuracao\Index.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Roupa\Editar.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Roupa\Index.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Shared\_LayoutConfiguracao.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.RazorTargetAssemblyInfo.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.RazorTargetAssemblyInfo.cs
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.Views.pdb
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.csproj.CopyComplete
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\refint\Crud.dll
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.pdb
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\Crud.genruntimeconfig.cache
+E:\Meus-Projetos\Projetos alura\LojaDeRoupas\obj\Debug\net5.0\ref\Crud.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\appsettings.Development.json
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\appsettings.json
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.StaticWebAssets.xml
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.exe
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.deps.json
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.runtimeconfig.json
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.runtimeconfig.dev.json
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.pdb
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.Views.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Crud.Views.pdb
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Dapper.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Humanizer.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus-Projetos\Crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.csproj.AssemblyReference.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.AssemblyInfoInputs.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.AssemblyInfo.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.csproj.CoreCompileInputs.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.MvcApplicationPartsAssemblyInfo.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.RazorAssemblyInfo.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.RazorAssemblyInfo.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\scopedcss\bundle\Crud.styles.css
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\staticwebassets\Crud.StaticWebAssets.xml
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.TagHelpers.input.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.TagHelpers.output.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.RazorCoreGenerate.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Cadastro\Editar.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Cadastro\Index.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Shared\_LayoutConfiguracao.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.RazorTargetAssemblyInfo.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.RazorTargetAssemblyInfo.cs
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.Views.pdb
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.csproj.CopyComplete
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.dll
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\refint\Crud.dll
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.pdb
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\Crud.genruntimeconfig.cache
+E:\Meus-Projetos\Crud\obj\Debug\net5.0\ref\Crud.dll

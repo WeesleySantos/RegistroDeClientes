@@ -1,0 +1,35 @@
+﻿@model RegistroClientes.Models.CadastroViewModels
+@{
+    ViewData["Title"] = "Editar";
+}
+<style>
+    h3 {
+        color: #3690cd;
+    }
+</style>
+
+<form asp-action="Editar" asp-controller="Cadastro" method="post">
+
+    <div class="container">
+        <h3 class="row justify-content-center mt-5">Atualizar cliente</h3>
+        <div class="row justify-content-center">
+            <div class="col-sm-4">
+                <label class="col-form-label">Nome Cliente</label>
+                <input asp-for="@Model.Cadastro.NomeCliente" class="form-control" required />
+            </div>
+
+            <div class="col-sm-4">
+                <label class="col-form-label">CPF</label>
+                <input asp-for="@Model.Cadastro.CPF" class="form-control" required />
+            </div>
+        </div>
+        <div class="row ml-1 mt-2 justify-content-center">
+            <div>
+                <button class="btn btn-secondary" type="submit">Salvar</button>
+                <a asp-controller="Cadastro" asp-action="Index" class="btn btn-danger">Fechar</a>
+            </div>
+        </div>
+    </div>
+    <input asp-for="@Model.Cadastro.Id" hidden />
+    <hr />
+</form>

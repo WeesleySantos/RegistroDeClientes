@@ -1,0 +1,90 @@
+﻿@model RegistroClientes.Models.CadastroViewModels
+
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<style>
+    .corTabela {
+        background-color: #3690cd;
+    }
+
+    .paginate_button.page-item.active .page-link {
+        background-color: #3690cd;
+        border-color: #fff;
+    }
+
+    h3 {
+        color: #3690cd;
+    }
+</style>
+
+
+<form asp-action="Adicionar" asp-controller="Cadastro" method="post">
+
+    <div class="container">
+        <h3 class="row justify-content-center mt-5">Registro de clientes</h3>
+        <div class="row justify-content-center">
+            <div class="col-sm-4">
+                <label class="col-form-label">Nome Cliente</label>
+                <input asp-for="@Model.Cadastro.NomeCliente" class="form-control" required />
+            </div>
+            <div class="col-sm-4">
+                <label class="col-form-label">CPF</label>
+                <input asp-for="@Model.Cadastro.CPF" class="form-control" required />
+            </div>
+        </div>
+
+        <div class="row ml-1 mt-2 justify-content-center">
+            <div>
+                <button class="btn btn-secondary" type="submit">Salvar</button>
+            </div>
+        </div>
+
+    </div>
+    <hr />
+</form>
+
+<table id="Tabela" class="table-striped" style="width:100%">
+
+    <thead class="corTabela">
+        <tr class="text-center">
+            <th>Nome Cliente</th>
+            <th>CPF</th>
+            <th>Editar/Excluir</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cadastros)
+        {
+            <tr class="text-center">
+                <td>@item.NomeCliente</td>
+                <td>@item.CPF</td>
+                <td>
+                    <a asp-controller="Cadastro" asp-action="Editar" asp-route-Id="@item.Id">
+                        <i class="fa fa-edit text-info check-configuracao"></i>
+                    </a>
+                    ||
+                    <a asp-controller="Cadastro" asp-action="Excluir" asp-route-Id="@item.Id">
+                        <i class="fa fa-eraser text-danger check-configuracao"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('#Tabela').DataTable({
+                destroy: true,
+                language: {
+                    url: '@Url.Content("~/lib/DataTables/Portuguese-Brasil.json")'
+                },
+            })
+        });
+    </script>
+}
